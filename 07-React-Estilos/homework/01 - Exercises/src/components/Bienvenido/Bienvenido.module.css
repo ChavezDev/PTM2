@@ -47,10 +47,13 @@
 .listItem:hover {
   background-color: #262623c9;
   color: beige;
+  
 }
 
 .listItem img {
   width: 50%;
   object-fit: cover;
   margin: 15px;
+  
 }
+
